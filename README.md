@@ -58,3 +58,16 @@ To prevent theft, the system does not simply give the item to anyone who asks. W
 2.  The claimant inputs their own description (`proof`).
 3.  The `SequenceMatcher` calculates how similar these two strings are.
 4.  Access is granted only if the description is highly similar (Ratio \> 0.3) or matches exactly.
+
+## Screenshots
+!i[image](https://github.com/divybisht3021-botzai/VIT-L-F/blob/main/Screenshots/login.png?raw=true)
+
+![image](https://github.com/divybisht3021-botzai/VIT-L-F/blob/main/Screenshots/register.png?raw=true)
+
+![image](https://github.com/divybisht3021-botzai/VIT-L-F/blob/main/Screenshots/dashboard.png?raw=true)
+
+![image](https://github.com/divybisht3021-botzai/VIT-L-F/blob/main/Screenshots/report%20item.png?raw=true)
+
+![image](https://github.com/divybisht3021-botzai/VIT-L-F/blob/main/Screenshots/claim%20fail.png?raw=true)
+
+![image](https://github.com/divybisht3021-botzai/VIT-L-F/blob/main/Screenshots/claim%20success.png?raw=true)
